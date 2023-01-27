@@ -1,0 +1,5 @@
+4.	Write a c++ program that takes a double input from the user and then converts it to an integer using a type cast, 
+rounding down to the nearest integer if necessary.
+
+Ans:
+
