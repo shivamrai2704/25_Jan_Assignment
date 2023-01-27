@@ -1,0 +1,5 @@
+1.	Write a program that prompts the user to enter a character and then converts it to an integer using the dynamic_cast operator. 
+    The program should then display the original character and the converted integer to the user.
+    
+Ans:
+
