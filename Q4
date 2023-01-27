@@ -3,3 +3,14 @@ rounding down to the nearest integer if necessary.
 
 Ans:
 
+#include<iostream>
+using namespace std;
+int main()
+{
+	float a;
+	cout<<"enter a double numver\n";
+	cin>>a;
+	int res=(int)a;
+	cout<<"the number after rounding off to nearset integer is "<<res;
+	
+}
