@@ -2,3 +2,14 @@
 
 Ans:
 
+#include<iostream>
+using namespace std;
+int main()
+{
+	float a;
+	cout<<"enter a floating numver\n";
+	cin>>a;
+	int res=(int)a;
+	cout<<"the number after converting it in integer is "<<res;
+	
+}
